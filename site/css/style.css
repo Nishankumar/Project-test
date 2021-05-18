@@ -9,3 +9,81 @@
     width: 100%;
     height: 500px;
 }
+.container h1{
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    padding: 200px 0 0 0;
+}
+.container p{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+}
+.container p span{
+    color: chocolate;
+    font-family:cursive;
+}
+.container .icon-box{
+    text-align: center;
+    padding-top: 20px;
+}
+.container .icon-box a{
+    padding: 20px;
+    color: #fff;
+}
+section{
+    width: 100%;
+    height: 70px;
+    background-color:#fff;
+    text-align: center;
+}
+section ul a li{
+    text-decoration: none;
+    display: inline-block;
+    color: #000;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+}
+section .active {
+    color: navy;
+}
+section a li:hover{
+    background-color: rebeccapurple;
+    color: #fff;
+}
+.content h3 {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content .para{
+    text-align: justify;
+    background-color: mediumspringgreen;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.content .para span{
+    color: rebeccapurple;
+}
+.content .img-box{
+    width: 55%;
+    margin: auto;
+
+}
+.about{
+    background-color: gray;
+    width: 100%;
+}
+.about footer{
+    text-align: center;
+    line-height: 1.5;
+}
+
+.about .icon-box a{
+    color: #000;
+    padding: 0 20px 0 0 ;
+}
