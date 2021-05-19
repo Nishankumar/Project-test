@@ -75,7 +75,7 @@ section a li:hover{
 .content .para span{
     color: rebeccapurple;
 }
-@media(min-width:240px and) and (max-width:340px) {
+@media(min-width:240px) {
     .content .para p{
         width: 40%;
         height: 200px;
