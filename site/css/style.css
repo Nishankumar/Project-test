@@ -93,3 +93,22 @@ section a li:hover{
     color: #000;
     padding: 0 20px 0 0 ;
 }
+.contact-form{
+    width: 80%;
+    margin: auto;
+    padding-top: 140px;
+    height: 600px;
+    color: #fff;
+    background-color: pink;
+}
+.contact-form form{
+    width: 50%;
+    margin: auto;
+    color: #000;
+    padding: 30px;
+    background-color: #fff;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.contact-form form #male,#female,#Email,#Phone{
+    margin-left: 32px;
+}
