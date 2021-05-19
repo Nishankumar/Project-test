@@ -57,6 +57,9 @@ section a li:hover{
 .container-1{
     width: 100%;
 }
+.content{
+    width: 100%;
+}
 .content h3 {
     color: red;
     text-align: center;
