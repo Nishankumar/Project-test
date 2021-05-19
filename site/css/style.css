@@ -75,10 +75,7 @@ section a li:hover{
 .content .para span{
     color: rebeccapurple;
 }
-.container-1 .img-box{
-    width: 30%;
-    margin: auto;
-}
+
 .container-1 .img-box img{
     width: 300px;
     height: 400px;
