@@ -77,8 +77,8 @@ section a li:hover{
 }
 @media(min-width:240px and) and (max-width:340px) {
     .content .para p{
-        width: 50%;
-        height: 100px;
+        width: 40%;
+        height: 200px;
     }
 }
 .container-1 .img-box img{
